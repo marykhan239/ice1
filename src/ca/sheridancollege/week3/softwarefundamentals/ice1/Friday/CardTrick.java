@@ -10,6 +10,7 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card card1=new Card();
+        Card card2=new Card();
          String s= card1.getSuit();
        int v= card1.getValue();
       //print card suit and value
